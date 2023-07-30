@@ -1,3 +1,3 @@
-# Projeto consumir uma API feito com React
-
+# Projeto consumiR API
+###  React
 ### API  :  www.themoviedb.org
