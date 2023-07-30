@@ -1,3 +1,3 @@
-# Projeto consumiR API
+# Projeto consumir API
 ###  React
 ### API  :  www.themoviedb.org
